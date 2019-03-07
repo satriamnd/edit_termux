@@ -105,6 +105,6 @@ tombol \033[95mCTRL + X + Y + ENTER
         os.system('nano bash.bashrc')
     else:
         main()   
-main()
+
 if __name__ == '__main__':
     main()
