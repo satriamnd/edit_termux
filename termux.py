@@ -104,7 +104,7 @@ tombol \033[95mCTRL + X + Y + ENTER
         os.system('pkg install nano')
         os.system('nano bash.bashrc')
         main()
-    lain :
+    else:
         main()   
 
 if __name__ == '__main__':
